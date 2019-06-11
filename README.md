@@ -33,7 +33,7 @@ The target variables I obtiabed were: *y_authorZipCodes*, *y_authorZipCode_posta
 
 ## Conclusion
 The best result was obtained with **X_tfidf + y_authorZipCode_geo_regions + 
-Multinomial Naive Bayes":
+Multinomial Naive Bayes**:
 ```text
 Model accuracy: 21.43%
 Random accuracy: 7.14%
