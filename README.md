@@ -42,5 +42,5 @@ There are a lot more that can be done with this dataset, besides applying basic 
 You can make use of this notebook for basic loading and processing data.
 
 `output` folder contains a link to the gdrive where you can download all the dumped X and y  
-`pretrained_w2v` should be filled with the pre-trained w2vec model (link is in the folder)
+`pretrained_w2v` should be filled with the pre-trained w2vec model (link is in the folder)  
 `Data Preprocessing and Some NLP models applied.ipynb` is the main notebook file.
